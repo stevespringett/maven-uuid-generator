@@ -5,7 +5,7 @@
 Maven UUID Generator Plugin
 =========
 
-The Maven UUID Generator Plugin generates a unique UUID for each build and assigns value to `project.build.uuid`.
+The Maven UUID Generator Plugin generates a unique UUID for each build and assigns the value to `project.build.uuid`.
 
 Maven Usage
 -------------------
