@@ -10,7 +10,7 @@ import java.util.UUID;
 
 @Mojo(
         name = "generate",
-        defaultPhase = LifecyclePhase.CLEAN
+        defaultPhase = LifecyclePhase.INITIALIZE
 )
 public class MavenUuidGenerator extends AbstractMojo {
 

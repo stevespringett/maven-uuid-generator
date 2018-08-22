@@ -15,10 +15,10 @@ Maven Usage
     <plugin>
         <groupId>us.springett</groupId>
         <artifactId>maven-uuid-generator</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <executions>
             <execution>
-                <phase>clean</phase>
+                <phase>initialize</phase>
                 <goals>
                     <goal>generate</goal>
                 </goals>
