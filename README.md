@@ -31,7 +31,7 @@ Maven Usage
 Copyright & License
 -------------------
 
-CycloneDX Maven Plugin is Copyright (c) Steve Springett. All Rights Reserved.
+Maven UUID Generator Plugin is Copyright (c) Steve Springett. All Rights Reserved.
 
 Permission to modify and redistribute is granted under the terms of the Apache 2.0 license. See the [LICENSE] file for the full license.
 
