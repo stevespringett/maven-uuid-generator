@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/stevespringett/maven-uuid-generator.svg?branch=master)](https://travis-ci.org/stevespringett/maven-uuid-generator)
+[![Build Status](https://github.com/stevespringett/maven-uuid-generator/workflows/Maven%20CI/badge.svg)](https://github.com/stevespringett/maven-uuid-generator/actions?workflow=Maven+CI)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/us.springett/maven-uuid-generator/badge.svg)](https://maven-badges.herokuapp.com/maven-central/us.springett/maven-uuid-generator)
 [![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)][License]
 
